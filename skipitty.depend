@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715781749 source:d:\onedrive - yildiz technical university\masaüstü\2. sýnýf 2. dönem\veriyapilari\odev3\skipitty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

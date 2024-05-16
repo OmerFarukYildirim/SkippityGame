@@ -1,0 +1,21 @@
+A A A E C A A D 
+D 0 E A B B D B 
+E 0 D E A C B C 
+E D D E 0 A E C 
+D 0 A A B C C C 
+E C C E E C B A 
+A 0 0 B E E B D 
+C 0 0 A D D C D 
+15
+10
+2
+0
+1
+0
+1
+0
+1
+2
+1
+1
+1
